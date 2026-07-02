@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hello,+I'm+Kartheeswaran+M;💻+Full+Stack+Web+Developer;⚛️+React+%7C+Node.js+%7C+MongoDB;🤖+AI+Enthusiast;🚀+Building+Modern+Digital+Experiences"/>
-</p>
+
 
 <p align="center">
 
@@ -43,16 +42,14 @@
 🎯 Goal: Become a Software Engineer & Build AI-powered Products.
 
 <p align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode,androidstudio"/>
 
 </p>
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthees-m&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthees-m&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<br>
 </p>
 
 <p align="center">
@@ -63,9 +60,8 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karthees-m&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
 </p>
+<br>
 
 <p align="center">
 
